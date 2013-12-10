@@ -13,3 +13,8 @@ such as nodejs, JavaScript framework, library.
 * [IBM Web开发相关资源](http://www.ibm.com/developerworks/cn/views/web/libraryview.jsp)，中文版的，
 一些文章是翻译过来的，不是很全，建议直接看下面链接，英文版的。
 * [IBM Web开发相关，英文版](http://www.ibm.com/developerworks/web/library/)
+
+
+### 开源项目资源 
+
+* [Jsource 前端资源的收集](https://github.com/airyland/Jsource)
