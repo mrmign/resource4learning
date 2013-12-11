@@ -18,4 +18,4 @@ such as nodejs, JavaScript framework, library.
 ### 开源项目资源 
 
 * [Jsource 前端资源的收集](https://github.com/airyland/Jsource)
-* [foru17 整理的前端相关资源，blog, 大牛，newsletter](https://github.com/foru17/front-end-collect?utm_campaign=Manong_Weekly_Issue_13&utm_medium=EDM&utm_source=Manong_Weekly)
+* [foru17 整理的前端相关资源，blog, 大牛，newsletter](https://github.com/foru17/front-end-collect)
